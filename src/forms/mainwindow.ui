@@ -189,7 +189,7 @@
           </sizepolicy>
          </property>
          <property name="suffix">
-          <string extracomment="Weight unit symbol"> г</string>
+          <string extracomment="Weight unit symbol"> g</string>
          </property>
          <property name="minimum">
           <number>1</number>
@@ -211,7 +211,7 @@
           </sizepolicy>
          </property>
          <property name="text">
-          <string extracomment="&quot;Fetch shipping tariffs&quot; checkbox label (static)">[fetch_tariffs]</string>
+          <string extracomment="&quot;Use tariffs&quot; checkbox label (static)">[use_tariffs]</string>
          </property>
          <property name="checked">
           <bool>true</bool>
@@ -235,7 +235,7 @@
        </font>
       </property>
       <property name="text">
-       <string extracomment="Total fees static label">[total_fees]</string>
+       <string extracomment="Expenses static label">[expenses]</string>
       </property>
       <property name="alignment">
        <set>Qt::AlignCenter</set>
